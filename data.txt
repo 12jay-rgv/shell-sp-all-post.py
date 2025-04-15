@@ -1,0 +1,13 @@
+radius :2000.0
+angle_period :90.0
+longitude_hh :18.0
+thickness_stiffer :1.5
+thickness_shell :2.0
+mesh_size : 20
+maxNum_Inc : 50
+dimple_center_x : 707.10678
+dimple_center_y : 707.10678
+dimple_center_z : 0.0
+dimple_angle : 12
+dimple_depth : 150.0
+scale : 1.0

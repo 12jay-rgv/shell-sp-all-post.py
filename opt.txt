@@ -1,0 +1,5 @@
+mass = 149.29249723
+Mode         1: EigenValue =   1.4451
+risk-1.39049804211=1.1897611618
+WALLCLOCK TIME (SEC) =       1208
+WALLCLOCK TIME (SEC) =       7665
